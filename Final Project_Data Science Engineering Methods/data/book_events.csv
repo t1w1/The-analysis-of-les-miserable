@@ -1,0 +1,47 @@
+event,year,role1,role2,event_type,relationship,main_story,location,chapter
+Bread,1796,Jean,,unkind,,0,Digne,1
+Silver,1815,Jean,Myriel,unkind,close,0,Digne,1
+Forgive,1815,Myriel,Jean,kind,close,0,Digne,1
+Threat,1815,Jean,Pettit,unkind,ordinary,0,Digne,1
+Repent,1815,Jean,,kind,,0,Digne,1
+Help,1821,Jean,Cutwind,kind,close,0,Montreuil,1
+New daughter,1817,Fantine,Cosette,kind,close,0,Paris,1
+Put her daughter in a local family,1821,Fantine,Thenardier,ordinary,ordinary,1,Montreuil,1
+Mistreatment,1821,Thenardier,Cosette,unkind,ordinary,1,Montreuil,1
+Tell lies and ask for many things,1821,Thenardier,Fantine,unkind,ordinary,1,Montreuil,1
+Arrest Fantine,1821,Javert,Fantine,unkind,hostile,0,Montreuil,1
+Help,1821,Jean,Fantine,kind,close,0,Montreuil,1
+Jean tell the truth of himself,1821,Jean,,kind,,0,Montreuil,1
+Arrest Jean,1821,Javert,Jean,unkind,hostile,1,Montreuil,1
+Gift for Cosette,1822,Jean,Cosette,kind,close,0,Montreuil,2
+Jealous,1822,Eponine,Cosette,unkind,hostile,0,Montreuil,2
+Take Cosette away,1822,Jean,Cosette,kind,close,1,Montreuil,2
+Find Jean's new house and want to catch him,1822,Javert,Jean,unkind,hostile,1,Paris,2
+Help,1822,Cutwind,Jean,kind,close,1,countryside,2
+Revolution,1830,Enjolras,,ordinary,,1,Paris,3
+Fall in love,1830,Marius,Cosette,kind,close,1,Paris,3
+Help Eponine,1830,Marius,Eponine,kind,close,0,Paris,3
+Jean'Visit,1830,Jean,Eponine,kind,ordinary,1,Paris,3
+Attack Jean,1830,Thenardier,Jean,unkind,hostile,1,Paris,3
+Saved Jean,1830,Marius,Jean,kind,close,1,Paris,3
+Arrest Thenardier,1830,Javert,Jean,unkind,ordinary,1,Paris,3
+Jean escaped,1830,Jean,,ordinary,,1,Paris,3
+Love,1830,Cosette,Marius,kind,close,1,Paris,4
+Stop their evil actions,1830,Eponine,Thenardiner,ordinary,close,0,Paris,4
+Help Jean,1830,Eponine,Jean,kind,ordinary,0,Paris,4
+Marius's anger,1830,Marius,Marius's grandpa,unkind,close,0,Paris,4
+Found Javert,1830,Gavroche,Javert,unkind,ordinary,1,Paris,4
+Arrest Javert,1830,Enjolras,Javert,unkind,close,1,Paris,4
+Marius was attacked,1830,people,Marius,unkind,hostile,1,Paris,4
+Saved Marius,1830,Eponine,Marius,kind,hostile,1,Paris,4
+Jean went to the castle,1830,Jean,,ordinary,,1,Paris,5
+Gavroche was attacked,1830,people,Gavroche,unkind,hostile,0,Paris,5
+Jean saved Javert,1830,Jean,Javert,kind,hostile,1,Paris,5
+Saved Marius,1830,Jean,Marius,kind,close,1,Paris,5
+Introspection,1830,Javert,,kind,,0,Paris,5
+Marry,1830,Marius,Cosette,kind,close,0,Paris,5
+Tell the truth,1830,Jean,Marius,ordinary,close,1,Paris,5
+Anger,1830,Marius,Jean,unkind,close,1,Paris,5
+Extrude Thenardier,1830,Marius,Thenardier,ordinary,ordinary,0,Paris,5
+Understand,1830,Marius,Jean,kind,close,1,Paris,5
+Tell Cosette the story,1830,Jean,Cosette,kind,close,1,Paris,5
